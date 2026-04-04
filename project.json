@@ -1,1 +1,62 @@
-
+{
+  "meta": {
+    "title": "Active Projects",
+    "inProgressCount": 3,
+    "lastUpdated": "2026-04-04"
+  },
+  "projects": [
+    {
+      "id": "saas-dashboard",
+      "name": "SaaS Dashboard — Reynt",
+      "status": "Shipping",
+      "statusColor": "green",
+      "description": "Built in-house · Multi-tenant · Live",
+      "techStack": ["Next.js", "Node.js", "PostgreSQL"],
+      "progress": {
+        "design": 92,
+        "development": 74,
+        "qaDeploy": 38
+      },
+      "isHighlighted": true
+    },
+    {
+      "id": "marketplace-app",
+      "name": "Marketplace Mobile App",
+      "status": "In Review",
+      "statusColor": "yellow",
+      "description": "Flutter · Node.js · MongoDB · AWS",
+      "techStack": ["Flutter", "Node.js", "MongoDB", "AWS"],
+      "progress": {
+        "design": 85,
+        "development": 68,
+        "qaDeploy": 40
+      },
+      "isHighlighted": false
+    },
+    {
+      "id": "health-platform",
+      "name": "Sexual Health & Wellness Platform",
+      "status": "Building",
+      "statusColor": "gray",
+      "description": "Next.js · Node.js · MongoDB · Razorpay · Shiprocket",
+      "techStack": ["Next.js", "Node.js", "MongoDB", "Razorpay", "Shiprocket"],
+      "progress": {
+        "design": 70,
+        "development": 55,
+        "qaDeploy": 20
+      },
+      "isHighlighted": false
+    }
+  ],
+  "stats": {
+    "productsShipped": 20,
+    "industries": 15,
+    "yearsBuilding": 2
+  },
+  "testimonial": {
+    "name": "Manjunath J.",
+    "role": "Founder",
+    "message": "High-quality work, fast turnaround, and incredibly responsive!",
+    "avatarInitials": "MJ"
+  },
+}
