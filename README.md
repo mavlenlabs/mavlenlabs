@@ -12,7 +12,7 @@
 
 <br/>
 
-<h3>We partner with founders to build apps, SaaS platforms,<br/>and AI products — from idea to shipped.</h3>
+<h3>WWe're a product studio. We partner with founders to build apps, SaaS products, and AI tools - from the first whiteboard sketch to a live, scalable product.</h3>
 
 <p>Not an agency. Not a dev shop.<br/>We work like a founding team.</p>
 
@@ -58,7 +58,7 @@ No sprints that go nowhere. No scope creep disguised as agile.
 
 ## What's here
 
-Internal frameworks that came out of 20+ builds, open-source tooling, and code from our in-house product work. We build a lot of things — some of it ends up here.
+Internal frameworks that came out of 20+ builds, open-source tooling, and code from our in-house product work. We build a lot of things - some of it ends up here.
 
 ---
 
