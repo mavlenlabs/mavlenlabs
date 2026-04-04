@@ -3,16 +3,16 @@
 <br/>
 
 <table border="0" cellpadding="24" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" bgcolor="#ffffff" style="border-radius:12px">
-      <img src="https://www.mavlenlabs.com/mavlen-logo.svg" width="180px" alt="MavlenLabs" />
-    </td>
-  </tr>
+      <!-- <img src="https://www.mavlenlabs.com/mavlen-logo.svg" width="180px" alt="MavlenLabs" /> -->
+      <img width="1584" height="396" alt="x" src="https://github.com/user-attachments/assets/adf51621-8c4b-4de1-85e4-baadee87ab19" />
+
 </table>
+
+
 
 <br/>
 
-<h3>WWe're a product studio. We partner with founders to build apps, SaaS products, and AI tools - from the first whiteboard sketch to a live, scalable product.</h3>
+<h3>We're a product studio. We partner with founders to build apps, SaaS products, and AI tools - from the first whiteboard sketch to a live, scalable product.</h3>
 
 <p>Not an agency. Not a dev shop.<br/>We work like a founding team.</p>
 
