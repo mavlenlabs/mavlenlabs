@@ -2,16 +2,16 @@
   "meta": {
     "title": "Active Projects",
     "inProgressCount": 3,
-    "lastUpdated": "2026-04-04"
+    "lastUpdated": "2026-04-09"
   },
   "projects": [
     {
-      "id": "saas-dashboard",
-      "name": "SaaS Dashboard — Reynt",
+      "id": "marketplace-app",
+      "name": "HoodSquare Marketplace App",
       "status": "Shipping",
       "statusColor": "green",
-      "description": "Built in-house · Multi-tenant · Live",
-      "techStack": ["Next.js", "Node.js", "PostgreSQL"],
+      "description": "Flutter · Node.js · MongoDB · AWS",
+      "techStack": ["Flutter" , "Node.js" , "MongoDB" , "AWS"],
       "progress": {
         "design": 92,
         "development": 74,
@@ -20,12 +20,12 @@
       "isHighlighted": true
     },
     {
-      "id": "marketplace-app",
-      "name": "Marketplace Mobile App",
+      "id": "Billing-app",
+      "name": "E-Billing App",
       "status": "In Review",
       "statusColor": "yellow",
-      "description": "Flutter · Node.js · MongoDB · AWS",
-      "techStack": ["Flutter", "Node.js", "MongoDB", "AWS"],
+      "description": "React Native . Supabase",
+      "techStack": ["React Native" , "Supabase"],
       "progress": {
         "design": 85,
         "development": 68,
@@ -34,12 +34,12 @@
       "isHighlighted": false
     },
     {
-      "id": "health-platform",
-      "name": "Sexual Health & Wellness Platform",
+      "id": "Website Development",
+      "name": "Digityx-Digital Marketing",
       "status": "Building",
       "statusColor": "gray",
-      "description": "Next.js · Node.js · MongoDB · Razorpay · Shiprocket",
-      "techStack": ["Next.js", "Node.js", "MongoDB", "Razorpay", "Shiprocket"],
+      "description": "Next.js · Node.js · MongoDB",
+      "techStack": ["Next.js" , "Node.js" , "MongoDB"],
       "progress": {
         "design": 70,
         "development": 55,
