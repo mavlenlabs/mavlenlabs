@@ -22,8 +22,8 @@
     {
       "id": "Billing-app",
       "name": "E-Billing App",
-      "status": "In Review",
-      "statusColor": "yellow",
+      "status": "Shipping",
+      "statusColor": "green",
       "description": "React Native . Supabase",
       "techStack": ["React Native" , "Supabase"],
       "progress": {
@@ -31,7 +31,7 @@
         "development": 68,
         "qaDeploy": 40
       },
-      "isHighlighted": false
+      "isHighlighted": true
     },
     {
       "id": "Website Development",
