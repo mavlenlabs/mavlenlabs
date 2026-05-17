@@ -6,8 +6,8 @@
   },
   "projects": [
     {
-      "id": "PayzoBill",
-      "name": "E-Billing App",
+      "id": "App Development",
+      "name": "PayzoBill App",
       "status": "Shipping",
       "statusColor": "green",
       "description": "React Native . Supabase",
