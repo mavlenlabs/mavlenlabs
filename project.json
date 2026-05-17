@@ -2,25 +2,11 @@
   "meta": {
     "title": "Active Projects",
     "inProgressCount": 4,
-    "lastUpdated": "2026-04-16"
+    "lastUpdated": "2026-05-17"
   },
   "projects": [
     {
-      "id": "marketplace-app",
-      "name": "HoodSquare Marketplace App",
-      "status": "Shipping",
-      "statusColor": "green",
-      "description": "Flutter · Node.js · MongoDB · AWS",
-      "techStack": ["Flutter" , "Node.js" , "MongoDB" , "AWS"],
-      "progress": {
-        "design": 92,
-        "development": 74,
-        "qaDeploy": 38
-      },
-      "isHighlighted": true
-    },
-    {
-      "id": "Billing-app",
+      "id": "PayzoBill",
       "name": "E-Billing App",
       "status": "Shipping",
       "statusColor": "green",
@@ -46,7 +32,22 @@
         "qaDeploy": 20
       },
       "isHighlighted": false
+    },
+    {
+      "id": "Website Development",
+      "name": "Navyata Solutech",
+      "status": "Building",
+      "statusColor": "gray",
+      "description": "Next.js · Node.js · MongoDB",
+      "techStack": ["Next.js" , "Node.js" , "MongoDB"],
+      "progress": {
+        "design": 70,
+        "development": 55,
+        "qaDeploy": 20
+      },
+      "isHighlighted": false
     }
+    
   ],
   "stats": {
     "productsShipped": 21,
