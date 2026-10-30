@@ -2,9 +2,24 @@
   "meta": {
     "title": "Active Projects",
     "inProgressCount": 4,
-    "lastUpdated": "2026-05-17"
+    "lastUpdated": "2026-10-30"
   },
   "projects": [
+
+    {
+      "id": "Web App",
+      "name": "Q2 Labs",
+      "status": "Shipping",
+      "statusColor": "green",
+      "description": "Next.js · Node.js · MongoDB",
+      "techStack": ["Next.js" , "Node.js" , "MongoDB"],
+      "progress": {
+        "design": 70,
+        "development": 55,
+        "qaDeploy": 20
+      },
+      "isHighlighted": false
+    },
     {
       "id": "App Development",
       "name": "PayzoBill App",
@@ -33,20 +48,6 @@
       },
       "isHighlighted": false
     },
-    {
-      "id": "Website Development",
-      "name": "Navyata Solutech",
-      "status": "Building",
-      "statusColor": "gray",
-      "description": "Next.js · Node.js · MongoDB",
-      "techStack": ["Next.js" , "Node.js" , "MongoDB"],
-      "progress": {
-        "design": 70,
-        "development": 55,
-        "qaDeploy": 20
-      },
-      "isHighlighted": false
-    }
     
   ],
   "stats": {
